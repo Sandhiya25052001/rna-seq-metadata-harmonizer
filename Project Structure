@@ -1,0 +1,9 @@
+rna_seq_metadata_harmonization/
+│── metadata/                       
+│   └── .gitkeep                     
+│── results/                         
+│── src/
+│   └── harmonize_metadata.py        
+│── README.md
+│── requirements.txt
+│── .gitignore
