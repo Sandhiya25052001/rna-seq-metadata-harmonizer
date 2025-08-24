@@ -1,0 +1,8 @@
+#Windows (PowerShell):
+python --version
+pip --version
+git --version
+
+#If any are missing:
+Python: https://www.python.org/downloads/
+Git: https://git-scm.com/download/win
