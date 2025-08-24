@@ -1,0 +1,18 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# data
+metadata/*
+!metadata/.gitkeep
+
+# virtual envs (if you use one)
+.venv/
+venv/
+
